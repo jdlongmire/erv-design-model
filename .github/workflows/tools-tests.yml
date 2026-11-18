@@ -1,0 +1,24 @@
+name: tools-tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Tools tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install biopython
+      - name: Compile tools
+        run: python -m py_compile tools/assembly_manifest.py tools/locus_validator.py tools/screen_erv_lineages.py tools/test_locus_validator.py
+      - name: Run locus validator unit tests
+        working-directory: tools
+        run: python -m unittest test_locus_validator -v
