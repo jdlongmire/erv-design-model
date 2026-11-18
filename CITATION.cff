@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "ERV Design Model: A Design-Forward Research Programme on Endogenous Retroviruses"
+message: "If you reference this work, please cite it as below."
+type: software
+authors:
+  - given-names: James
+    name-particle: D.
+    family-names: Longmire
+    orcid: "https://orcid.org/0009-0009-1383-7698"
+    email: jdlongmire@outlook.com
+repository-code: "https://github.com/jdlongmire/erv-design-model"
+abstract: >-
+  A public research programme on endogenous retroviruses (ERVs) and ERV-like
+  genomic elements. The programme is design-forward: it begins with the
+  explanatory plausibility of design, critically interrogates the causal
+  sufficiency and historical assumptions of consensus explanations, and
+  evaluates competing accounts on demonstrated explanatory reach, predictive
+  performance on tests registered in advance, and independently justified
+  assumptions. It holds itself to dated preregistered predictions and records
+  its failures in the open.
+keywords:
+  - endogenous retroviruses
+  - ERV
+  - design model
+  - research programmes
+  - Lakatos
+  - comparative genomics
+  - common descent
+  - preregistration
+license: CC-BY-4.0
+version: "0.1.0"
+date-released: "2026-11-18"
