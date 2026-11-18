@@ -2,6 +2,7 @@
 
 **Established:** 2026-11-18
 **Framework:** Designed Functional Maturity, the view that the first living systems were created functionally complete rather than assembled gradually
+**Framework repository:** Designed Functional Maturity (DFM) is a broader research programme maintained at [https://github.com/jdlongmire/designed-functional-maturity](https://github.com/jdlongmire/designed-functional-maturity). This programme applies that framework to endogenous retrovirus evidence.
 **Structure:** a research programme in the sense of Imre Lakatos, organized as core commitments, working models, a research plan, and rules against special pleading (see section headings)
 **Status, in plain words:** Early stage. The model is, at most, preliminarily plausible. It does not claim to match the standard explanation yet, let alone beat it, and nothing here is historically confirmed.
 
