@@ -42,9 +42,11 @@ Words used in this repository are defined in plain language in [GLOSSARY.md](GLO
 - The claims in the papers rest on the primary publications they cite. Where a source could not be checked directly, the file says so, and that material should not be treated as inspected data.
 - No specific shared insertion is claimed as confirmed where the record does not show one. Similarity between viral families is not the same thing as the same insertion at the same genomic location, and this programme does not treat it as such.
 
-## Licensing
+## Licensing and citation
 
-No LICENSE or CITATION.cff is included yet. Licensing and citation terms are reserved pending an explicit decision by the repository owner. Inclusion in this public repository does not grant a licence beyond what applicable law and GitHub's terms provide for public repositories.
+This work is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). See [LICENSE](LICENSE). You may share and adapt the material for any purpose, provided you give appropriate credit.
+
+If you reference this work, please cite it as: Longmire, J.D. (2026) *ERV Design Model: A Design-Forward Research Programme on Endogenous Retroviruses*. Version 0.1.0. Available at: https://github.com/jdlongmire/erv-design-model. Machine-readable citation metadata is in [CITATION.cff](CITATION.cff).
 
 ## Provenance
 

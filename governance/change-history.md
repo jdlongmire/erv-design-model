@@ -48,3 +48,7 @@ At JD's direction, following recommendations filed by thinx-claude through ai-br
 ## 2026-11-18 - Programme stance adopted
 
 JD set the programme's approach: design-forward, and skeptical of the consensus model. The programme begins with the explanatory plausibility of design; consensus explanations are critically interrogated on causal sufficiency and historical assumptions; and competing accounts are evaluated on demonstrated explanatory reach, predictive performance, and independently justified assumptions. The stance is stated in the charter (section 1, Programme stance) and summarized in the README. Recorded findings are unchanged by the stance: a result favouring a competing account on specified evidence remains an accounting result on that evidence, not a default.
+
+## 2026-11-18 - Licensing ruled
+
+JD ruled licensing on the recommendation recorded at establishment: the repository is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), the same pattern as christian-designism. LICENSE (the full Creative Commons text) and CITATION.cff (version 0.1.0, released 2026-11-18) were added, and the README licensing section now states the terms and the citation. The earlier reservation of licensing pending the owner's decision is closed by this entry.
