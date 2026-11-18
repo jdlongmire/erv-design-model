@@ -111,10 +111,10 @@ Doolittle, W.F. (2013) ‘Is junk DNA bunk? A critique of ENCODE’, *Proceeding
 
 Dupressoir, A. et al. (2009) ‘Syncytin-A knockout mice demonstrate the critical role in placentation of a fusogenic, endogenous retrovirus-derived, envelope gene’, *Proceedings of the National Academy of Sciences*, 106(29), pp. 12127–12132. https://doi.org/10.1073/pnas.0902925106
 
-Frost, J.M. et al. (2023) ‘Regulation of human trophoblast gene expression by endogenous retroviruses’, *Nature Structural & Molecular Biology*. https://doi.org/10.1038/s41594-023-00960-6
+Frost, J.M. et al. (2023) ‘Regulation of human trophoblast gene expression by endogenous retroviruses’, *Nature Structural & Molecular Biology*, 30(4), pp. 527–538. https://doi.org/10.1038/s41594-023-00960-6
 
 Graur, D. et al. (2013) ‘On the immortality of television sets: “Function” in the human genome according to the evolution-free gospel of ENCODE’, *Genome Biology and Evolution*, 5(3), pp. 578–590. https://doi.org/10.1093/gbe/evt028
 
-Yuan, Y. et al. (2023) ‘Endogenous retrovirus-derived enhancers confer the transcriptional regulation of human trophoblast syncytialization’, *Nucleic Acids Research*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10250217/
+Yuan, Y. et al. (2023) ‘Endogenous retrovirus-derived enhancers confer the transcriptional regulation of human trophoblast syncytialization’, *Nucleic Acids Research*, 51, pp. 4745–4759. https://doi.org/10.1093/nar/gkad109 (PMC10250217)
 
 **Source integrity:** All cited works are primary research or original scholarly critiques. The functional evidence above is derived from experimental reports; the original-architecture hypothesis is an independent historical proposal. No novel genomic analysis or quantitative model comparison is claimed.
