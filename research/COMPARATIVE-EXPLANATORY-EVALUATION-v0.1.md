@@ -74,4 +74,4 @@ Yohn, C.T. et al. (2005) ‘Lineage-specific expansions of retroviral insertions
 
 Dupressoir, A. et al. (2009) ‘Syncytin-A knockout mice demonstrate the critical role in placentation of a fusogenic, endogenous retrovirus-derived envelope gene’, *PNAS*. https://doi.org/10.1073/pnas.0902925106
 
-**Provenance:** Existing primary-source inventory and previously documented R3 case study; no new external genomic retrieval or sequence analysis in this assessment. Publisher-level bibliography revalidation pending.
+**Provenance:** Existing primary-source inventory and previously documented R3 case study; no new external genomic retrieval or sequence analysis in this assessment. Publisher-level bibliography revalidation completed 2026-11-18 (research/audits/BIBLIOGRAPHY-REVALIDATION-2026-11-18.md).
