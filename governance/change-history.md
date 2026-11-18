@@ -26,3 +26,12 @@ Pointers added, each verified by readback:
 - `jdlongmire/designed-functional-maturity`: the ERV package exists only on draft PR #53 (branch `research/wp-038-erv-model`); a pointer banner was added to the WP-038 document on that branch (commit 8d5ef927) and a pointer comment posted on PR #53. The PR remains draft and unmerged, with its gates unchanged. DFM master, which has no ERV research path, was not edited.
 
 Left alone, with reasons: `ai-bridge` (its ERV files are historical mail records; the primary scope notice was already filed there on 2026-11-18), and all repos whose only hits were substring false positives or no ERV paths.
+
+## 2026-11-18 - GitOps closeout
+
+At JD's direction, all work tied to this programme's establishment was landed and every related branch resolved:
+
+- `jdlongmire/designed-functional-maturity` PR #53 (WP-038) was merged to master (squash commit 029148ea) after the missing work-packages index row for WP-038 was added (commit 7eebd36d) and repo-checks passed on that exact head; all four CI jobs passed on the merge commit. The branch `research/wp-038-erv-model` was deleted. WP-038's gates are unchanged by the merge: parity gate HOLD, scoring gate unresolved, parity not established.
+- `jdlongmire/christian-designism`: branches `erv-avenues-log` and `p006-foamy-fail`, both verified fully merged into main (zero ahead), were archived to tags `archive/erv-avenues-log` and `archive/p006-foamy-fail` at their tips and deleted.
+- `jdlongmire/ztype-erv-explanatory-model`: branches `probe/a`, `probe/b`, `probe/c`, and `research/biid-erv-origin` were archived to tags under `archive/` at their verified tips and deleted. The BIID research files on that branch were never merged to main (its PR #2 was closed unmerged) and are preserved by the archive tag as source record; they are not part of this programme.
+- This repository was added to the owner's GitHub triage watchlist on publication.
