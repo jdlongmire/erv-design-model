@@ -56,3 +56,7 @@ JD ruled licensing on the recommendation recorded at establishment: the reposito
 ## 2026-11-18 - Cross-linked to the Designed Functional Maturity programme
 
 At JD's direction, this programme and the Designed Functional Maturity (DFM) programme are now cross-linked in both directions. The charter names and links the framework repository, and the README carries a short Wider framework section. The DFM repository links back: an ERV row in its research tracks, a repository map entry, and a Relationship to the ERV Design Model programme section in its README.
+
+## 2026-11-18 - Bibliography revalidation completed and entries completed
+
+Publisher-level revalidation of the two curated whitepapers' references was completed against Crossref publisher metadata: all 8 unique works verified, no fabricated or materially wrong entries. The audit is filed at research/audits/BIBLIOGRAPHY-REVALIDATION-2026-11-18.md. On its recommendation, and at JD's direction, the two incomplete entries were completed from publisher metadata (Frost et al. 2023: volume 30, issue 4, pages 527-538; Yuan et al. 2023: volume 51, pages 4745-4759, DOI 10.1093/nar/gkad109), and the revalidation-pending provenance notes in the whitepaper and the comparative evaluation now record the completion.
