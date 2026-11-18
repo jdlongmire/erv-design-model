@@ -205,7 +205,7 @@ Yohn, C.T. et al. (2005) ‘Lineage-specific expansions of retroviral insertions
 
 ## Provenance and independence
 
-This paper develops the user's Original Biological Network proposal and draws on public primary literature and the existing BIID working paper in this repository. It does not import the models, registered predictions, criteria, auxiliary dispositions or verdicts of independent DFM WP-038 and Christian Designism P-006 programmes. Bibliographic entries carried forward from the existing BIID paper require final publisher-level revalidation before formal publication. No new sequence extraction, computational comparison, experiment, or external peer review is claimed.
+This paper develops the user's Original Biological Network proposal and draws on public primary literature and the existing BIID working paper in this repository. It does not import the models, registered predictions, criteria, auxiliary dispositions or verdicts of independent DFM WP-038 and Christian Designism P-006 programmes. Bibliographic entries carried forward from the existing BIID paper were revalidated at publisher level on 2026-11-18; all entries verified, record in research/audits/BIBLIOGRAPHY-REVALIDATION-2026-11-18.md. No new sequence extraction, computational comparison, experiment, or external peer review is claimed.
 
 ## Version record
 
