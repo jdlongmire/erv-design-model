@@ -35,3 +35,12 @@ At JD's direction, all work tied to this programme's establishment was landed an
 - `jdlongmire/christian-designism`: branches `erv-avenues-log` and `p006-foamy-fail`, both verified fully merged into main (zero ahead), were archived to tags `archive/erv-avenues-log` and `archive/p006-foamy-fail` at their tips and deleted.
 - `jdlongmire/ztype-erv-explanatory-model`: branches `probe/a`, `probe/b`, `probe/c`, and `research/biid-erv-origin` were archived to tags under `archive/` at their verified tips and deleted. The BIID research files on that branch were never merged to main (its PR #2 was closed unmerged) and are preserved by the archive tag as source record; they are not part of this programme.
 - This repository was added to the owner's GitHub triage watchlist on publication.
+
+## 2026-11-18 - Plain-language pass and repository hygiene
+
+At JD's direction, following recommendations filed by thinx-claude through ai-bridge (plain language) and the establishment build report (repository hygiene):
+
+- Plain-language pass on the public files: README and Programme Charter rewritten to lead with the research question, a plain status line, the failure condition, and the distinction between what the programme assumes and what it tests. The Lakatosian parts are renamed in plain words (core commitments, working models, research plan, rules against special pleading, gaining or losing ground), with the technical terms kept once in brackets. A GLOSSARY.md was added. The research, predictions, and methods section guides were lightly revised to match. The curated source files (whitepapers, causal model, comparative evaluation, audits) are unchanged, byte for byte.
+- Continuous integration: a GitHub Actions workflow (tools-tests) now compiles the four tools and runs the locus validator unit tests with Biopython installed, on every push and pull request to main. First run passed (commit 21287c5d). The methods guide records this; the establishment note that the test was not run in the build environment stands as the historical record for that date.
+- Branch protection on main: pull request required, the Tools tests check required and branch must be up to date, rules enforced for administrators, no force pushes, no branch deletion.
+- Not done in this pass, by the owner's reservation: no LICENSE or CITATION.cff (licensing decision still the owner's), no preregistrations yet, and the publisher-level bibliography revalidation flagged in the whitepapers remains queued programme work.
