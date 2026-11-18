@@ -22,6 +22,7 @@ In practice:
 - No account earns credit for being the consensus, for incumbency, or for narrative familiarity. Overclaims of explanatory success, by any side, are recorded as overclaims.
 - Competing accounts, this programme's included, are evaluated on three measures: demonstrated explanatory reach (what an account actually accounts for, not what it could accommodate after the fact), predictive performance on tests registered in advance, and independently justified assumptions (assumptions with support beyond the pattern they are invoked to explain).
 - Findings stand as recorded. A result that favours a competing account on a specified body of evidence is an accounting result on that evidence. It is recorded plainly, and it does not convert the competing account into a default or a baseline.
+- Design-forward is not contra-evidence. Facing the consensus account's evidence honestly does not weaken this programme's approach, and the programme must not make unsupported or false claims about the consensus account. What that account holds, predicts, or has demonstrated is stated accurately and with sources; the strongest form of its case is the one answered; and where its evidence is strong, the record says so. Caricature, gap-claims the literature has closed, and predictions attributed to it that it does not make are failures of this programme's own standard, on a par with the overclaims it records in others. The same rule binds claims made for the design model.
 
 ## 2. Core commitments (the hard core)
 

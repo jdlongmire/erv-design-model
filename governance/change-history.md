@@ -60,3 +60,7 @@ At JD's direction, this programme and the Designed Functional Maturity (DFM) pro
 ## 2026-11-18 - Bibliography revalidation completed and entries completed
 
 Publisher-level revalidation of the two curated whitepapers' references was completed against Crossref publisher metadata: all 8 unique works verified, no fabricated or materially wrong entries. The audit is filed at research/audits/BIBLIOGRAPHY-REVALIDATION-2026-11-18.md. On its recommendation, and at JD's direction, the two incomplete entries were completed from publisher metadata (Frost et al. 2023: volume 30, issue 4, pages 527-538; Yuan et al. 2023: volume 51, pages 4745-4759, DOI 10.1093/nar/gkad109), and the revalidation-pending provenance notes in the whitepaper and the comparative evaluation now record the completion.
+
+## 2026-11-18 - Stance clarified: design-forward is not contra-evidence
+
+JD stated the boundary of the programme stance: "We are design forward but not contra-evidence - that doesn't weaken the approach but we must not make unsupported or false claims concerning the other side." The charter's stance section now carries the rule in full: what the consensus account holds, predicts, or has demonstrated is stated accurately and with sources, its strongest form is the one answered, strong evidence for it is recorded as strong, and caricature or closed-gap claims are failures of the programme's own standard. The README approach paragraph carries the one-sentence form. The rule binds claims made for the design model on the same terms.
