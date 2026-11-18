@@ -52,3 +52,7 @@ JD set the programme's approach: design-forward, and skeptical of the consensus 
 ## 2026-11-18 - Licensing ruled
 
 JD ruled licensing on the recommendation recorded at establishment: the repository is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), the same pattern as christian-designism. LICENSE (the full Creative Commons text) and CITATION.cff (version 0.1.0, released 2026-11-18) were added, and the README licensing section now states the terms and the citation. The earlier reservation of licensing pending the owner's decision is closed by this entry.
+
+## 2026-11-18 - Cross-linked to the Designed Functional Maturity programme
+
+At JD's direction, this programme and the Designed Functional Maturity (DFM) programme are now cross-linked in both directions. The charter names and links the framework repository, and the README carries a short Wider framework section. The DFM repository links back: an ERV row in its research tracks, a repository map entry, and a Relationship to the ERV Design Model programme section in its README.
