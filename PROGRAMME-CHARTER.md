@@ -11,6 +11,17 @@ Human-Curated, AI-Enabled (HCAE)
 
 To develop and test, in public and under dated commitments made in advance, whether a design model of endogenous retrovirus (ERV) evidence can become a programme that gains ground over time, and to record honestly if it does not.
 
+### Programme stance (adopted 2026-11-18)
+
+This programme is design-forward. It begins with the explanatory plausibility of design. The design model is the account under development here, not a challenger that must first displace an incumbent before it may be taken seriously. The consensus account, common descent, is a competing explanation, and its claims are open to the same critical examination as any other account's.
+
+In practice:
+
+- Consensus explanations are interrogated on two points: causal sufficiency (whether the mechanisms they invoke can actually produce the patterns claimed for them) and historical assumptions (whether the ancestral histories they assume are independently supported, or only fitted to the data they are meant to explain).
+- No account earns credit for being the consensus, for incumbency, or for narrative familiarity. Overclaims of explanatory success, by any side, are recorded as overclaims.
+- Competing accounts, this programme's included, are evaluated on three measures: demonstrated explanatory reach (what an account actually accounts for, not what it could accommodate after the fact), predictive performance on tests registered in advance, and independently justified assumptions (assumptions with support beyond the pattern they are invoked to explain).
+- Findings stand as recorded. A result that favours a competing account on a specified body of evidence is an accounting result on that evidence. It is recorded plainly, and it does not convert the competing account into a default or a baseline.
+
 ## 2. Core commitments (the hard core)
 
 These are the programme's organizing commitments. They are held as starting assumptions, not as experimentally established facts:

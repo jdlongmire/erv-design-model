@@ -10,6 +10,8 @@ This repository is a public research programme working on that question. It stud
 
 **What we assume, and what we test:** The programme starts from design premises, including theological ones. Those premises are stated openly in the charter and are not findings. What the evidence is meant to test is narrower: whether a model built on those premises can account for the ERV patterns as well as the standard explanation can.
 
+**Approach:** This programme is design-forward. It begins with the explanatory plausibility of design, and it examines the consensus explanation critically: whether its mechanisms are causally sufficient for the patterns claimed, and whether its historical assumptions are independently supported or only fitted to the data. No account here earns credit for being the consensus. Competing accounts are judged on what they actually explain, how their registered predictions perform, and whether their assumptions are independently justified. The charter states this stance in full.
+
 Human-Curated, AI-Enabled (HCAE)
 
 ## How the programme is organized
