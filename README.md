@@ -39,6 +39,8 @@ Words used in this repository are defined in plain language in [GLOSSARY.md](GLO
 
 This programme applies a broader framework, Designed Functional Maturity (DFM): the view that the first living systems were functionally complete rather than assembled gradually. The framework programme, covering origins questions well beyond viruses, is maintained at [https://github.com/jdlongmire/designed-functional-maturity](https://github.com/jdlongmire/designed-functional-maturity). This repository is that framework's primary public programme for endogenous retrovirus research. The framework repository's own ERV work package (WP-038) is its internal record; this programme's charter, predictions, and results are its own.
 
+The wider designist programme is governed at the programme level by [Christian Designism](https://github.com/jdlongmire/christian-designism), whose charter holds the revelational and historical principles of record for the designist lines. This programme relates to that layer through DFM as stated above. The Christian Designism repository's own ERV sub-line runs in parallel behind its stated information firewall and is not imported here.
+
 ## Where the material came from, and what is not here
 
 - The research here was drawn from the Original Biological Network work in the repository now named `jdlongmire/ztype-erv-explanatory-model`, published there by merge PR #3 (merge commit a3aaa8436d991f7fcefb0927581ca811fe1e5ce9). A file by file record of what came from where is in `governance/source-provenance-ledger.md`.
